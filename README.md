@@ -16,3 +16,6 @@ Transcription and Analysis of Phone Conversations
 
 ## Unsupervised LDA
 Uncleaned code for LDA Topic Modeling
+
+## Anchored CorEx
+Alternative method for Topic Modeling, may give better results depending on data
